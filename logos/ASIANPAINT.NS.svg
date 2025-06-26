@@ -1,0 +1,88 @@
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" width="595.27557pt" height="841.88977pt" id="svg40" viewBox="0 0 595.27557 841.88977" sodipodi:docname="asian-paints-seeklogo.cdr">
+  <defs id="defs40"/>
+  <sodipodi:namedview id="namedview40" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="pt"/>
+  <g id="Layer1000">
+    <g id="Layer1001">
+      <defs id="defs5">
+        <linearGradient id="grad1">
+          <stop offset="0.0000%" stop-color="#563480" stop-opacity="1.0000" id="stop1"/>
+          <stop offset="25.0000%" stop-color="#67309b" stop-opacity="1.0000" id="stop2"/>
+          <stop offset="55.0000%" stop-color="#af9ec7" stop-opacity="1.0000" id="stop3"/>
+          <stop offset="86.0000%" stop-color="#6514a3" stop-opacity="1.0000" id="stop4"/>
+          <stop offset="100.0000%" stop-color="#522881" stop-opacity="1.0000" id="stop5"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad1" id="grad2" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(-109,0.5,0.5)" gradientUnits="objectBoundingBox"/>
+      </defs>
+      <path d="m 123.2844,264.6315 c -7.1405,-9.6468 -11.1266,-20.082 -12.5362,-31.1614 19.3519,-8.6176 41.6067,-13.9735 67.1668,-15.4278 38.8841,11.131 58.6464,28.4373 67.5434,50.0814 -39.9076,-21.8258 -81.3113,-26.0816 -122.174,-3.4922 z" style="fill:url(#grad2)" id="path5"/>
+      <defs id="defs10">
+        <linearGradient id="grad3">
+          <stop offset="0.0000%" stop-color="#563480" stop-opacity="1.0000" id="stop6"/>
+          <stop offset="25.0000%" stop-color="#67309b" stop-opacity="1.0000" id="stop7"/>
+          <stop offset="55.0000%" stop-color="#af9ec7" stop-opacity="1.0000" id="stop8"/>
+          <stop offset="86.0000%" stop-color="#6514a3" stop-opacity="1.0000" id="stop9"/>
+          <stop offset="100.0000%" stop-color="#522881" stop-opacity="1.0000" id="stop10"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad3" id="grad4" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180,0.5,0.5)" gradientUnits="objectBoundingBox"/>
+      </defs>
+      <path d="m 179.3384,394.8288 c -18.2845,3.4688 -37.2402,3.3068 -56.0023,-2.7759 -16.5888,-10.0358 -25.9076,-26.5878 -27.4528,-51.667 0.8084,-43.9025 32.1482,-58.9105 71.4562,-49.4283 -46.6762,38.5445 -30.7623,89.6858 11.9989,103.8712 z" style="fill:url(#grad4)" id="path10"/>
+      <defs id="defs14">
+        <linearGradient id="grad5">
+          <stop offset="0.0000%" stop-color="#feba32" stop-opacity="1.0000" id="stop11"/>
+          <stop offset="45.0000%" stop-color="#e63e23" stop-opacity="1.0000" id="stop12"/>
+          <stop offset="52.0000%" stop-color="#e63e23" stop-opacity="1.0000" id="stop13"/>
+          <stop offset="100.0000%" stop-color="#fbb82a" stop-opacity="1.0000" id="stop14"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad5" id="grad6" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(90,0.5,0.5)" gradientUnits="objectBoundingBox"/>
+      </defs>
+      <path d="m 190.173,274.4815 c -30.2107,-1.3867 -56.5875,5.7441 -76.2916,23.4605 26.1161,-11.7722 55.3041,-13.794 92.4096,9.3126 29.7286,20.2966 59.4573,40.5933 89.1859,60.89 61.453,44.1121 120.6268,66.2726 172.9992,22.9233 -51.749,12.9465 -90.9345,-4.5092 -133.2417,-41.5485 -47.2307,-34.6843 -97.6601,-68.1406 -145.0614,-75.0379 z" style="fill:url(#grad6)" id="path14"/>
+      <defs id="defs18">
+        <linearGradient id="grad7">
+          <stop offset="0.0000%" stop-color="#e63225" stop-opacity="1.0000" id="stop15"/>
+          <stop offset="40.0000%" stop-color="#fab830" stop-opacity="1.0000" id="stop16"/>
+          <stop offset="55.0000%" stop-color="#fcba37" stop-opacity="1.0000" id="stop17"/>
+          <stop offset="100.0000%" stop-color="#e63e23" stop-opacity="1.0000" id="stop18"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad7" id="grad8" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180,0.5,0.5)" gradientUnits="objectBoundingBox"/>
+      </defs>
+      <path d="M 282.014,351.3716 C 305.4601,280.7033 246.2419,217.433 177.9146,218.0423 c 67.0003,19.4562 84.8225,65.5985 66.8672,112.7318 -26.6112,55.5085 -65.8352,76.9177 -121.7373,61.1091 57.0077,38.8309 131.2545,25.1303 158.9695,-40.5116 z" style="fill:url(#grad8)" id="path18"/>
+      <defs id="defs23">
+        <linearGradient id="grad9">
+          <stop offset="0.0000%" stop-color="#563480" stop-opacity="1.0000" id="stop19"/>
+          <stop offset="25.0000%" stop-color="#67309b" stop-opacity="1.0000" id="stop20"/>
+          <stop offset="55.0000%" stop-color="#af9ec7" stop-opacity="1.0000" id="stop21"/>
+          <stop offset="86.0000%" stop-color="#6514a3" stop-opacity="1.0000" id="stop22"/>
+          <stop offset="100.0000%" stop-color="#522881" stop-opacity="1.0000" id="stop23"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad9" id="grad10" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180,0.5,0.5)" gradientUnits="objectBoundingBox"/>
+      </defs>
+      <path d="m 487.1071,347.3292 c -3.0546,-66.2551 -46.2944,-74.8179 -88.3349,-63.9407 27.3708,8.1928 46.14,23.9367 46.7212,53.1785 -1.4097,29.8803 -13.4879,47.5184 -33.0737,56.3525 38.8049,8.0341 70.7263,9.9409 74.6874,-45.5903 z" style="fill:url(#grad10)" id="path23"/>
+      <defs id="defs27">
+        <linearGradient id="grad11">
+          <stop offset="0.0000%" stop-color="#e63225" stop-opacity="1.0000" id="stop24"/>
+          <stop offset="44.0000%" stop-color="#fab830" stop-opacity="1.0000" id="stop25"/>
+          <stop offset="59.0000%" stop-color="#fcba37" stop-opacity="1.0000" id="stop26"/>
+          <stop offset="100.0000%" stop-color="#e63e23" stop-opacity="1.0000" id="stop27"/>
+        </linearGradient>
+        <linearGradient xlink:href="#grad11" id="grad12" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(180,0.5,0.5)" gradientUnits="objectBoundingBox"/>
+      </defs>
+      <path d="m 375.2837,262.9087 c 30.5657,-6.4812 69.356,2.4359 93.0739,31.5211 -49.4558,-24.0388 -132.3436,-7.2739 -136.5352,74.615 l 0.1721,131.539 c -19.3837,0.9982 -34.7819,-6.2813 -35.3735,-23.6217 V 369.5092 c 2.1928,-53.7367 25.4047,-91.5497 78.6627,-106.6005 z" style="fill:url(#grad12)" id="path27"/>
+    </g>
+    <g id="Layer1002">
+      
+      <g id="Layer1003">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </g>
+    </g>
+  </g>
+</svg>
